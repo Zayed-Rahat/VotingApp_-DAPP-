@@ -8,8 +8,8 @@ You may also see any lint errors in the console.
 
 ### Home Page
 This is the project's homepage, where it outlines the project.
-If vote is already done by this metamask account:
+`If vote is already done by this metamask account`:
 ![1](https://github.com/Zayed-Rahat/VotingApp_-DAPP-/blob/main/Images/vote_done.png)
 
-Otherwise:
+`Otherwise`:
 ![2](https://github.com/Zayed-Rahat/VotingApp_-DAPP-/blob/main/Images/vote_not_yet.png)
